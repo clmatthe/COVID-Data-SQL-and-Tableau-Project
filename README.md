@@ -1,5 +1,5 @@
 # Guided project - Data exploration using SQL
-Guide and original code credited to Alex Freberg https://github.com/AlexTheAnalyst
+Guide and original code courtesy of Alex Freberg https://github.com/AlexTheAnalyst
 <h3>Data sources</h3>
 This project uses datasets pulled from https://ourworldindata.org/covid-deaths regarding deaths due to COVID-19 and COVID-19 vaccinations. Copies of the exact data files used have been uploaded to this repository as .xlsx files.
 <h3>Skills used</h3>
