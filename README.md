@@ -1,7 +1,7 @@
 # Guided project - Data exploration using SQL
 Guide and original code courtesy of Alex Freberg https://github.com/AlexTheAnalyst
 <h3>Data sources</h3>
-This project uses datasets pulled from https://ourworldindata.org/covid-deaths regarding deaths due to COVID-19 and COVID-19 vaccinations. Copies of the exact data files used have been uploaded to this repository as .xlsx files.
+This project uses datasets pulled from https://ourworldindata.org/covid-deaths containing data on deaths due to COVID-19 and COVID-19 vaccinations. Copies of the exact data files used have been uploaded to this repository as .xlsx files.
 <h3>Skills used</h3>
 This project was written and carried out using Excel for minor data cleaning and SQL Server Management Studio for everything else. This project is meant to showcase the following skills: joins, CTE's, temp tables, windows functions, aggregate functions, making views, converting data types via CAST() and CONVERT(). Data from this project was then visualized using a Tableau dashboard, which can be found here: https://public.tableau.com/app/profile/corinne.matthews/viz/COVIDInfectionandDeathRate/Dashboard1
 <h3>Insights from data</h3> 
